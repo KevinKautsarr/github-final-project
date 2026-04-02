@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert 1a60d77 Revert "Fix typo year to 2023"
+  bug-fix-typo   a01dad1 Fix typo year to 2023
+  main           a01dad1 [origin/main: ahead 1] Fix typo year to 2023
